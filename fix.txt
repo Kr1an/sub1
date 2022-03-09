@@ -1,3 +1,4 @@
 create fix.txt
 mid fix
 end fix
+another in fix
